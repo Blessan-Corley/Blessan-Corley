@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Problem+Solver;Turning+coffee+into+code+since+2022;Building+scalable+systems+%26+cool+projects;Open+to+opportunities+%26+collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Problem+Solver;Turning+coffee+into+code+since+2024;Building+scalable+systems+%26+cool+projects;Open+to+opportunities+%26+collaborations)](https://git.io/typing-svg)
 
 <br>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-## 👋 Who Am I?
+## Who Am I?
 
 <br>
 
@@ -54,8 +54,8 @@ const blessan = {
     
     achievements: {
         hackathons: [
-            "🏆 3rd Place - SRM University Hackathon",
-            "🎯 Top 20 - Inter-College Competition"
+            "3rd Place - SRM University Hackathon",
+            "Top 20 - Inter-College Competition"
         ]
     },
     
@@ -71,7 +71,7 @@ const blessan = {
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <br>
 
@@ -86,8 +86,8 @@ const blessan = {
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-<br>C++
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="C++" />
+<br>TypeScript
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -148,7 +148,7 @@ const blessan = {
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 </div>
 
@@ -159,7 +159,7 @@ const blessan = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🔧 Fixly</h3>
+<h3 align="center">Fixly</h3>
 <div align="center">
 <a href="https://github.com/Blessan-Corley/Fixly" target="_blank">
 <img src="https://img.shields.io/badge/Code-667eea?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
@@ -171,7 +171,7 @@ const blessan = {
 </div>
 </td>
 <td width="50%">
-<h3 align="center">🐍 SnakrX</h3>
+<h3 align="center">SnakrX</h3>
 <div align="center">
 <a href="https://github.com/Blessan-Corley/SnakrX" target="_blank">
 <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
@@ -190,7 +190,7 @@ const blessan = {
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🎮 Number Guesser Multiplayer</h3>
+<h3 align="center">Number Guesser Multiplayer</h3>
 <div align="center">
 <a href="https://github.com/Blessan-Corley/Guess-the-Number-Multiplayer" target="_blank">
 <img src="https://img.shields.io/badge/Code-f093fb?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
@@ -205,7 +205,7 @@ const blessan = {
 </div>
 </td>
 <td width="50%">
-<h3 align="center">♟️ Reverse Mate</h3>
+<h3 align="center">Reverse Mate</h3>
 <div align="center">
 <a href="https://github.com/Blessan-Corley/Reverse-Mate" target="_blank">
 <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
@@ -223,7 +223,7 @@ const blessan = {
 
 <div align="center">
 
-### 🎯 More Cool Stuff
+### More Cool Stuff
 
 <br>
 
@@ -238,7 +238,7 @@ const blessan = {
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <br>
 
@@ -252,7 +252,7 @@ const blessan = {
 
 <br>
 
-## 💻 Competitive Programming
+## Competitive Programming
 
 <br>
 
@@ -285,19 +285,19 @@ Solving problems on multiple platforms because one wasn't enough. Strengthening 
 
 <br>
 
-## 🏆 Achievements
+## Achievements
 
 <br>
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🥉_3rd_Place-SRM_University_Hackathon-f093fb?style=for-the-badge" alt="SRM"/>
+<img src="https://img.shields.io/badge/3rd_Place-SRM_University_Hackathon-f093fb?style=for-the-badge" alt="SRM"/>
 <br><br>
 Secured 3rd place among tough competition
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/🎯_Top_20-Inter_College_Competition-764ba2?style=for-the-badge" alt="Inter College"/>
+<img src="https://img.shields.io/badge/Top_20-Inter_College_Competition-764ba2?style=for-the-badge" alt="Inter College"/>
 <br><br>
 Made it to top 20 in inter-college event
 </td>
@@ -306,7 +306,7 @@ Made it to top 20 in inter-college event
 
 <br>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <br>
 
