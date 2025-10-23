@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=BLESSAN%20CORLEY&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20web,%20one%20bug%20fix%20at%20a%20time&descAlignY=56&descSize=22" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,50:3B8D99,100:79BD9A&height=280&section=header&text=BLESSAN%20CORLEY&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20the%20web,%20one%20bug%20fix%20at%20a%20time&descAlignY=56&descSize=22" alt="Header" width="100%"/>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-e94560?style=for-the-badge)](https://blessan-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessan-corley-a-9662642a6)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-ea4c89?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessancorley@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/blessan_corley/)
 
 <br>
 
@@ -9,13 +16,6 @@
 <br>
 
 ### AI & Data Science Engineering | Kalaignar Karunanidhi Institute of Technology
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-667eea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessan-corley-a-9662642a6)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-f093fb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessancorley@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/blessan_corley/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Compete-764ba2?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/blessan_corley)
 
 <br>
 
@@ -196,7 +196,7 @@ const blessan = {
 <img src="https://img.shields.io/badge/Code-f093fb?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
 <a href="https://guess-the-number-multiplayer-3rk1.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/Live-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+<img src="https://img.shields.io/badge/Play-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
 </a>
 <br><br>
 <p><strong>Node.js • Express • Socket.IO • PWA</strong></p>
@@ -210,8 +210,11 @@ const blessan = {
 <a href="https://github.com/Blessan-Corley/Reverse-Mate" target="_blank">
 <img src="https://img.shields.io/badge/Code-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/>
 </a>
+<a href="https://reverse-mate.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Play-667eea?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo"/>
+</a>
 <br><br>
-<p><strong>Vite • Express • MongoDB</strong></p>
+<p><strong>HTML• CSS • JS • Vite</strong></p>
 <br>
 <p>Chess-inspired strategic puzzle game with competitive leaderboard integration. It's like chess, but different. And possibly more confusing. Give it a shot.</p>
 </div>
@@ -249,6 +252,18 @@ const blessan = {
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blessan-Corley&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Blessan-Corley&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=f093fb&area=true&area_color=667eea" alt="Contribution Graph"/>
+
+<br>
+
+## 📈 Contribution Activity
+
+<br>
+
+<div align="center">
+
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Blessan-Corley&color=667eea&style=flat-square&label=Profile+Views)
+
+</div>
 
 <br>
 
@@ -314,6 +329,9 @@ Looking for opportunities in full-time roles, internships, freelance projects, o
 
 <br>
 
+<a href="https://blessan-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-blessan--portfolio.vercel.app-667eea?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/blessan-corley-a-9662642a6">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-667eea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -339,6 +357,6 @@ Looking for opportunities in full-time roles, internships, freelance projects, o
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,50:3B8D99,100:79BD9A&height=120&section=footer" alt="Footer" width="100%"/>
 
 </div>
