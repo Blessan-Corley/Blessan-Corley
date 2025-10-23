@@ -255,18 +255,6 @@ const blessan = {
 
 <br>
 
-## 📈 Contribution Activity
-
-<br>
-
-<div align="center">
-
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Blessan-Corley&color=667eea&style=flat-square&label=Profile+Views)
-
-</div>
-
-<br>
-
 ## Competitive Programming
 
 <br>
@@ -330,7 +318,7 @@ Looking for opportunities in full-time roles, internships, freelance projects, o
 <br>
 
 <a href="https://blessan-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-blessan--portfolio.vercel.app-667eea?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/blessan-corley-a-9662642a6">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-667eea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
