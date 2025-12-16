@@ -266,11 +266,11 @@ const blessan = {
 <br><br><strong>CodeChef Rating</strong>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Stars-2★-f093fb?style=for-the-badge&logo=codechef&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/badge/Stars-3★-f093fb?style=for-the-badge&logo=codechef&logoColor=white" alt="Stars"/>
 <br><br><strong>Achievement Level</strong>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/Contests-44+-667eea?style=for-the-badge&logo=codechef&logoColor=white" alt="Contests"/>
+<img src="https://img.shields.io/badge/Contests-52+-667eea?style=for-the-badge&logo=codechef&logoColor=white" alt="Contests"/>
 <br><br><strong>Contests Participated</strong>
 </td>
 </tr>
