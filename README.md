@@ -282,7 +282,7 @@ Solving problems on multiple platforms because one wasn't enough. Strengthening 
 
 <br>
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-764ba2?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/blessan_corley)
+[![CodeChef](https://img.shields.io/badge/CodeChef-764ba2?style=for-the-badge&logo=codechef&logoColor=white)]([https://www.codechef.com/users/blessan_corley](https://www.codechef.com/users/blessan_corley))
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/blessan_corley/)
 [![Codolio](https://img.shields.io/badge/Codolio-667eea?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/Blessan%20Corley)
 
